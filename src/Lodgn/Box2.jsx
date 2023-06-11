@@ -35,7 +35,7 @@ const Box2 = () => {
           Completed
         </button>
 
-        <div className="flex flex-row xl:flex-row lg:flex-wrap md:flex-wrap sm:flex-wrap space-x-8 xl:space-x-8 lg:space-x-12 md:space-x-[90px]">
+        <div className="xl:flex xl:flex-row lg:flex lg:flex-row md:flex md:flex-wrap sm:flex-row space-x-8 xl:space-x-8 lg:space-x-12 md:space-x-[90px]">
           <div className="w-full sm:w-auto xl:w-auto lg:w-auto md:w-1/3 ">
             <div className="box-border mt-6 h-44 w-52 bg-zinc-100 rounded-md border border-gray-400 relative">
               <div className="box-border p-2 h-10 w-20 left-[70%] -top-3 bg-red-500 text-white rounded-xl text-sm relative">
